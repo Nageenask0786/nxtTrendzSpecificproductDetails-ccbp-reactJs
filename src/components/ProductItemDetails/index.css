@@ -1,0 +1,21 @@
+.products-item-data {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Write your CSS here */
+
+.product-details {
+  display: flex;
+}
+.image {
+  height: 300px;
+  width: 150px;
+  border-radius: 6px;
+}
+.heading {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: bold;
+}
